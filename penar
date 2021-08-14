@@ -5,8 +5,16 @@
   "author": "Xuan Zhe",
   "cover": "https://i.imgur.com/I6i8kFM.png",
   "chapters": {
+"50": {
+      "title": "فراق فأل",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/RVLhe8r/"
+      },
+      "last_updated": "1616368746"
+    },
   "49": {
-      "title": "نطور سريع!",
+      "title": "تطور سريع!",
       "volume": "الموسم الأول",
       "groups": {
         "Hansoo": "/proxy/api/imgur/chapter/v76xXE4/"
