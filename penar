@@ -5,7 +5,15 @@
   "author": "Xuan Zhe",
   "cover": "https://i.imgur.com/I6i8kFM.png",
   "chapters": {
-"50": {
+  "51": {
+      "title": "الوداع - الرحيل",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/jbw6ySb/"
+      },
+      "last_updated": "1616368746"
+    },
+ "50": {
       "title": "فراق فأل",
       "volume": "الموسم الأول",
       "groups": {
