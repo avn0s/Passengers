@@ -5,6 +5,22 @@
   "author": "Xuan Zhe",
   "cover": "https://i.imgur.com/I6i8kFM.png",
   "chapters": {
+  "55": {
+      "title": "الغد",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/Yf8tT4u/"
+      },
+      "last_updated": "1631361576"
+    },
+  "54": {
+      "title": "االإيمان",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/zR7RGQP/"
+      },
+      "last_updated": "1631361576"
+    },
  "53": {
       "title": "الوقوع في حلمٍ",
       "volume": "الموسم الأول",
@@ -13,7 +29,6 @@
       },
       "last_updated": "1630766770"
     },
-
   "52": {
       "title": "المواجهة",
       "volume": "الموسم الأول",
